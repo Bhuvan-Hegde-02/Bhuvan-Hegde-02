@@ -19,7 +19,7 @@ I'm a passionate and curious **Data Analyst** excited to start my journey in the
 
 ```bas
 # Languages
-  Python
+Python
 
 # Data Source
 Excel
